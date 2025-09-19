@@ -1,331 +1,161 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Janhvi%20Patil&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Enthusiast&descAlignY=55&descSize=25"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=30&height=150&section=header&text=JANHVI%20PATIL&fontSize=40&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Enthusiast&descAlignY=65&descSize=16&descColor=8B949E"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=800&color=E6EDF3&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=150&lines=✨+Welcome+to+my+Digital+Universe+✨;💫+Data+Science+%7C+Machine+Learning+💫;🚀+Innovation+%7C+Problem+Solving+🚀;🎯+Python+%7C+Analytics+%7C+Insights+🎯)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=Building+with+data;Code+%2B+Analytics;Innovation+through+insights)](https://git.io/typing-svg)
   
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-    <img src="https://komarev.com/ghpvc/?username=janhavi1516&label=Profile%20Views&color=blueviolet&style=plastic&labelColor=0D1117" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/janhavi1516?label=Followers&style=plastic&color=blue&labelColor=0D1117" alt="followers" />
-    <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen?style=plastic&labelColor=0D1117" alt="focus" />
-    <img src="https://img.shields.io/badge/Status-Learning-orange?style=plastic&labelColor=0D1117" alt="status" />
+  <div style="margin: 15px 0;">
+    <img src="https://komarev.com/ghpvc/?username=janhavi1516&color=21262d&style=flat-square&label=views" alt="views"/>
+    <img src="https://img.shields.io/github/followers/janhavi1516?color=21262d&style=flat-square&label=followers" alt="followers"/>
   </div>
   
-  <img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+  <div style="width: 60%; height: 1px; background: linear-gradient(90deg, transparent, #58A6FF, transparent); margin: 20px auto;"></div>
   
 </div>
 
-<!-- About Section with Aesthetic Design -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" /> About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=janhavi1516&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E&count_private=true" width="400" />
+
+**Hi, I'm Janhvi** - a passionate **Data Science Enthusiast** based in India.
+
+I'm fascinated by transforming complex datasets into meaningful stories and building intelligent solutions for real-world challenges. Currently working on the Smart India Hackathon, exploring the intersection of machine learning and practical applications.
+
+**What I'm up to:**
+- 🔭 Working on **Smart India Hackathon** project
+- 🌱 Learning **Advanced GitHub workflows** & **ML algorithms**
+- 👯 Open to collaborate on **data science projects**
+- 💬 Ask me about **Python, Data Analytics, Machine Learning**
+
+**Philosophy:** *"Every dataset has a story, every algorithm unlocks potential"*
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" /> Tech Stack
+
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb54b69-c1e6-4f84-9704-5da1b6b11607" width="100%">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=58A6FF)
+![Java](https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-21262d?style=flat-square&logo=cplusplus&logoColor=58A6FF)
+![HTML](https://img.shields.io/badge/HTML-21262d?style=flat-square&logo=html5&logoColor=58A6FF)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=58A6FF)
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=58A6FF)
+![Oracle](https://img.shields.io/badge/Oracle-21262d?style=flat-square&logo=oracle&logoColor=58A6FF)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=58A6FF)
+![Android](https://img.shields.io/badge/Android-21262d?style=flat-square&logo=android&logoColor=58A6FF)
+![Arduino](https://img.shields.io/badge/Arduino-21262d?style=flat-square&logo=arduino&logoColor=58A6FF)
+
 </div>
 
-<table align="center" style="border: none;">
-<tr>
-<td width="60%" valign="top">
+---
 
-## 🌟 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> GitHub Analytics
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/src/dmca/border.gif" width="100%">
-
-Hey there! 👋 I'm **Janhvi Vilasrav Patil**, a passionate **Data Science Enthusiast** on a mission to transform raw data into meaningful stories. Based in the vibrant tech landscape of India, I'm constantly exploring the fascinating intersection of mathematics, technology, and real-world problem solving.
-
-🔬 **My Data Journey**: From wrestling with complex datasets to building predictive models, I believe that every data point has a story to tell. My expertise spans across multiple programming languages and database systems, allowing me to approach problems from various angles.
-
-🏆 **Competition Spirit**: Currently channeling my skills into the Smart India Hackathon, where innovation meets impact. I thrive in collaborative environments where diverse minds come together to create solutions that matter.
-
-🚀 **Always Learning**: The world of data science evolves rapidly, and so do I. Whether it's mastering new GitHub workflows or diving deep into advanced analytics, I'm committed to staying at the forefront of technological innovation.
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/src/dmca/border.gif" width="100%">
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-b2be-b725e5a5b67c" width="100%">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-68d67f0fd5a5" width="100%">
-
-</td>
-</tr>
-</table>
-
-<!-- Current Status Section -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b83c" width="100%">
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-## 🔥 Current Status
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cae851e3-40dc-4f48-9a15-36feb0b93b2d" width="100%">
-
-🎯 **Project Focus**: Smart India Hackathon (SIH) - Building tomorrow's solutions today
-
-🌱 **Learning Path**: Advanced GitHub workflows, Machine Learning algorithms, Data visualization techniques
-
-👥 **Collaboration**: Open to innovative data science projects and research initiatives
-
-💡 **Ask Me About**: Python programming, Database optimization, Statistical analysis, ML model development
-
-📬 **Get In Touch**: patiljanhavi1501@gmail.com
-
-⚡ **Philosophy**: "I transform coffee into code and data into insights!"
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c3b2dd2-d1b8-4b2b-8892-1b5b2e844f74" width="100%">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5b2c7ac6-2c0e-4e0b-a1b8-0cc1df43cdbd" width="100%">
-
-</td>
-</tr>
-</table>
-
-<!-- Tech Stack with Aesthetic Layout -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb54b69-c1e6-4f84-9704-5da1b6b11607" width="100%">
   
-  <h2>🛠️ Tech Arsenal</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi1516&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi1516&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&dates=8B949E" width="48%"/>
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
   
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-b2be-b725e5a5b67c" width="60%">
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 💻 **Languages**
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janhavi1516&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=E6EDF3)](https://github.com/janhavi1516)
 
 </div>
 
-</td>
-<td width="33%" align="center">
+---
 
-### 🗄️ **Databases**
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ **Tools**
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<!-- GitHub Stats with Beautiful Design -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b83c" width="100%">
-  
-  <h2>📊 GitHub Universe</h2>
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-68d67f0fd5a5" width="50%">
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=janhavi1516&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3"/>
-
-</td>
-<td width="50%" align="center">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi1516&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3"/>
-
-</td>
-</tr>
-</table>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25" /> Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi1516&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF6B35&currStreakLabel=E6EDF3" width="70%"/>
+  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=janhavi1516&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/janhavi1516)
+
 </div>
 
-<!-- Achievements Section -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb54b69-c1e6-4f84-9704-5da1b6b11607" width="100%">
-  
-  <h2>🏆 Achievement Gallery</h2>
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-b2be-b725e5a5b67c" width="60%">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=janhavi1516&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="90%"/>
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b83c" width="100%">
-</div>
+---
 
-<!-- Activity Graph -->
-<div align="center">
-  <h2>📈 Contribution Constellation</h2>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhavi1516&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=E6EDF3" width="95%"/>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janhavi1516/janhavi1516/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janhavi1516/janhavi1516/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janhavi1516/janhavi1516/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- Weekly Development -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cae851e3-40dc-4f48-9a15-36feb0b93b2d" width="100%">
-  
-  <h2>⏱️ Weekly Code Journey</h2>
-</div>
-
-<table align="center">
-<tr>
-<td width="60%">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" width="25" /> This Week
 
 ```text
-💻 This Week I Spent My Time On
+Python     ████████████████████░   80.2%  Data analysis & ML
+Java       ████░░░░░░░░░░░░░░░░░   12.5%  Backend development  
+SQL        ██░░░░░░░░░░░░░░░░░░░    5.8%  Database queries
+HTML/CSS   █░░░░░░░░░░░░░░░░░░░░    1.5%  Documentation
 
-Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨🟨🟨   48.2%
-Java         🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨   26.3%
-SQL          🟪🟪🟪🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   16.1%
-HTML/CSS     🟧🟧🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   8.8%
-Other        🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   0.6%
-
-📊 Languages Used This Week
-🐍 Python     - Data Analysis & ML Models
-☕ Java       - Backend Development
-🗃️ SQL        - Database Optimization
-🌐 HTML/CSS   - Frontend Enhancement
+Focus: Machine Learning | Data Visualization | Algorithm Development
 ```
 
-</td>
-<td width="40%" align="center">
+---
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c3b2dd2-d1b8-4b2b-8892-1b5b2e844f74" width="100%">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="25" /> Featured Projects
 
-</td>
-</tr>
-</table>
-
-<!-- Featured Projects -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb54b69-c1e6-4f84-9704-5da1b6b11607" width="100%">
-  
-  <h2>🌟 Featured Projects</h2>
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-68d67f0fd5a5" width="40%">
+
+[![SIH Project](https://github-readme-stats.vercel.app/api/pin/?username=janhavi1516&repo=sih-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E)](https://github.com/janhavi1516/sih-project)
+[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=janhavi1516&repo=data-analysis-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E)](https://github.com/janhavi1516/data-analysis-project)
+
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+---
 
-<a href="https://github.com/janhavi1516/sih-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janhavi1516&repo=sih-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="25" /> Connect
 
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/janhavi1516/data-analysis-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janhavi1516&repo=data-analysis-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<!-- Connect Section -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b83c" width="100%">
   
-  <h2>🤝 Let's Connect & Collaborate</h2>
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-b2be-b725e5a5b67c" width="40%">
-  
-  <div style="margin: 30px 0;">
-    <a href="https://linkedin.com/in/janhavi-patil">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-    <a href="mailto:patiljanhavi1501@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" />
-    </a>
-    <a href="https://github.com/janhavi1516">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-    </a>
-  </div>
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cae851e3-40dc-4f48-9a15-36feb0b93b2d" width="100%">
+[![Email](https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:patiljanhavi1501@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/janhavi-patil)
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/janhavi1516)
+
 </div>
 
-<!-- Footer -->
+---
+
 <div align="center">
   
-  <h3>✨ "In the world of data, every pattern tells a story, and every insight sparks innovation!" ✨</h3>
+![Snake animation](https://raw.githubusercontent.com/janhavi1516/janhavi1516/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center" style="margin-top: 30px;">
   
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn&fontColor=fff&fontSize=16&fontAlign=center&fontAlignY=75&desc=Thanks%20for%20visiting!%20⭐%20Star%20some%20repositories%20if%20you%20found%20them%20interesting!&descSize=12&descAlign=center&descAlignY=90"/>
-  
+*"In data we trust, in code we build"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer"/>
+
 </div>
 
 ---
 
 <details>
-<summary>🎨 <b>Aesthetic Setup Guide</b></summary>
+<summary>💡 Profile Setup</summary>
 
-## 🌈 How to Achieve This Aesthetic Look:
+## Minimal Dark Aesthetic
 
-### 1. **Color Palette**
-- **Primary**: `#58A6FF` (GitHub Blue)
-- **Secondary**: `#79C0FF` (Light Blue)
-- **Background**: `#0D1117` (GitHub Dark)
-- **Text**: `#E6EDF3` (Light Gray)
-- **Accent**: `#FF6B35` (Orange)
+### Design Philosophy
+- **Subtle animations**: Small, purposeful movements only
+- **Clean typography**: Easy to read, well-structured
+- **Minimal color palette**: Dark theme with blue accents
+- **Smart spacing**: Breathable layout without clutter
 
-### 2. **Key Elements**
-- **Animated Borders**: Using animated GIFs as section separators
-- **Table Layouts**: For better content organization and visual appeal
-- **Consistent Theming**: All components use `tokyonight` theme
-- **Strategic Spacing**: Proper use of margins and padding
-- **Visual Hierarchy**: Different sizes and weights for headers
+### Animations Used
+- Subtle typing effect (3 short phrases)
+- Small animated emoji icons (25px)
+- Thin gradient line separator
+- Snake contribution visualization
+- Gentle wave headers/footers
 
-### 3. **Animation Sources**
-All animations are sourced from the `Cool-GIFs-For-GitHub` repository by Anmol Baranwal, ensuring consistency and professional quality.
-
-### 4. **Customization Tips**
-- Replace repository names in Featured Projects section
-- Update social media links
-- Customize the weekly development breakdown
-- Add your own project screenshots and descriptions
-
-### 5. **Mobile Optimization**
-The profile uses responsive tables and flexible image sizing to ensure it looks great on all devices.
+### Color Scheme
+- Background: `#0D1117` (GitHub Dark)
+- Primary: `#58A6FF` (GitHub Blue)  
+- Secondary: `#21262D` (Dark Gray)
+- Text: `#E6EDF3` / `#8B949E`
 
 </details>
